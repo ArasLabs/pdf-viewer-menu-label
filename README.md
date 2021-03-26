@@ -36,8 +36,11 @@ Project | Aras
 
 ## Usage
 
-1. 
-2. 
+1. Login to Aras Innovator
+2. Navigate to Design > Parts in the table of contents (TOC) and click Search.
+3. Right click on a Part item in the main grid and select Open.
+4. In the sidebar on the left, look for the PDF viewer. Left click it.
+5. You should see the origins of the PDFs in smaller text beneath the titles.
 
 When done, your file will look something like this:
 ![Results](./Screenshots/result.jpg)
