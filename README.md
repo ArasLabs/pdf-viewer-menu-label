@@ -42,10 +42,8 @@ Project | Aras
 4. In the sidebar on the left, look for the PDF viewer. Left click it.
 5. You should see the origins of the PDFs in smaller text beneath the titles.
 
-When done, your file will look something like this:
+When done, your display will look something like this:
 ![Results](./Screenshots/result.jpg)
-
-Note: At present, custom grid layouts are not supported by this project.
 
 ## Contributing
 
